@@ -1,5 +1,29 @@
-# FPSO-Plant-Shudown-Portfolio
-Building a simulated FPSO shutdown project from scratch in Primavera P6, then analysing its performance in Power BI.
+# FPSO Plant Shutdown Portfolio
+
+A simulated FPSO shutdown project developed using:
+
+Primavera P6
+Microsoft Excel
+Power BI
+
+This project demonstrates planning, scheduling, progress tracking and reporting for a major offshore turnaround.
+
+Project Status
+- Repository Created
+
+- Project Charter
+
+- WBS Development
+
+- Primavera Schedule
+
+- Baseline
+
+- Power BI Dashboard
+
+- Weekly Reporting
+
+# Project Overview
 
 # FPSO Kwanza Star - 2027 Major Planned Shutdown (Turnaround)
 # PROJECT SNAPSHOT
