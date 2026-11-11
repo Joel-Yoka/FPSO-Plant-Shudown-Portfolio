@@ -2,9 +2,9 @@
 
 A simulated FPSO shutdown project developed using:
 
-Primavera P6
-Microsoft Excel
-Power BI
+- Primavera P6
+- Microsoft Excel
+- Power BI
 
 This project demonstrates planning, scheduling, progress tracking and reporting for a major offshore turnaround.
 
